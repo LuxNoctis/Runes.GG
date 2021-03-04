@@ -143,7 +143,7 @@ let BiscuitDelivery = Rune(name: "Biscuit Delivery", path: "Inspiration", descri
 
 let CosmicInsight = Rune(name: "Cosmic Insight", path: "Inspiration", description: "PASSIVE: Gain 15 summoner spell haste and 10 item haste.")
 
-let ApproachVelocity = Rune(name: "Approach Velocity", path: "Inspiration", description: "PASSIVE: Gain 7.5% Movement speed icon.png bonus movement speed toward enemy champions with impaired movement within 1000 range.\n\nThis bonus is doubled to 15% and does not have a range cap toward enemy champions whose movement you have impaired.\n\nVALID CROWD CONTROL:\n\n- Airborne\n- Forced Action\n- Root\n- Slow\n- Sleep\n- Stasis\n- Stun\n- Suppression")
+let ApproachVelocity = Rune(name: "Approach Velocity", path: "Inspiration", description: "PASSIVE: Gain 7.5% Movement speed icon.png bonus movement speed toward enemy champions with impaired movement within 1000 range.\n\nThis bonus is doubled to 15% and does not have a range cap toward enemy champions whose movement you have impaired.\n\nVALID CROWD CONTROL:\n\n— Airborne\n— Forced Action\n- Root\n- Slow\n- Sleep\n- Stasis\n- Stun\n- Suppression")
 
 let TimeWarpTonic = Rune(name: "Time Warp Tonic", path: "Inspiration", description: "PASSIVE: Consuming a potion or biscuit immediately restores 50% of the health and mana (if applicable) it would restore. Health/mana per tick is then reduced by half for the effect's regular duration.\n\nIf consumables are stacked, the instant restoration is applied after the duration of the initial consumable ends.\n\nAdditionally, you gain 5% bonus movement speed while under the effect of a potion or biscuit.")
 
@@ -152,7 +152,7 @@ let TimeWarpTonic = Rune(name: "Time Warp Tonic", path: "Inspiration", descripti
 
 let Aatrox = Champion(name: "Aatrox", title: "The World Ender", role: "Fighter", Keystone: Conqueror, primaryFirst: Triumph, primarySecond: LegendBloodline, primaryThird: LegendAlacrity, secondaryFirst: TasteOfBlood, secondarySecond: RavenousHunter)
 
-let Blitzcrank = Champion(name: "Blizcrank", title: "The Great Steam Golem", role: "Support", Keystone: Aftershock, primaryFirst: FontOfLife, primarySecond: BonePlating, primaryThird: Overgrowth, secondaryFirst: HextechFlastraption, secondarySecond: ApproachVelocity)
+let Blitzcrank = Champion(name: "Blitzcrank", title: "The Great Steam Golem", role: "Support", Keystone: Aftershock, primaryFirst: FontOfLife, primarySecond: BonePlating, primaryThird: Overgrowth, secondaryFirst: HextechFlastraption, secondarySecond: ApproachVelocity)
 
 let Cassiopeia = Champion(name: "Cassiopeia", title: "The Serpent's Embrace", role: "Mage", Keystone: PhaseRush, primaryFirst: NimbusCloak, primarySecond: Transcendence, primaryThird: GatheringStorm, secondaryFirst: PresenceOfMind, secondarySecond: CoupDeGrace)
 
